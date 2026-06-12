@@ -193,11 +193,12 @@ USP Arts and Science College for Women, Kodikurichi
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevipavithraR&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=DevipavithraR&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevipavithraR&layout=compact&theme=github_dark)
 
 ---
 
@@ -215,17 +216,37 @@ USP Arts and Science College for Women, Kodikurichi
 
 ---
 
+## 💻 LeetCode Statistics
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DeviPavithraR?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/DeviPavithraR/)
+
+---
+
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub)
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- Email: devipavithra12603@gmail.com
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+<p align="left">
+<a href="mailto:devipavithra12603@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devipavithra12603%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/devi-pavithra-r/">
+    <img src="https://img.shields.io/badge/LinkedIn-Devi%20Pavithra%20R-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/DevipavithraR">
+    <img src="https://img.shields.io/badge/GitHub-DevipavithraR-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://leetcode.com/u/DeviPavithraR/">
+    <img src="https://img.shields.io/badge/LeetCode-DeviPavithraR-orange?style=for-the-badge&logo=leetcode">
+</a>
+</p>
 
 ---
 
