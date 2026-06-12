@@ -21,30 +21,66 @@ Passionate Full Stack Developer with experience in designing, developing, and de
 - 🌱 Currently Learning Kubernetes & Cloud Technologies
 
 ---
-
-## 🛠️ Tech Stack
-
 ## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,python,php,laravel,nodejs,dotnet,kotlin,flutter,mysql,postgresql,git,docker,postman,vscode,github&perline=6" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular" />
 </p>
 
-## 🚀 Tools I Use
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,laravel,docker,mysql,postgresql,kotlin,flutter,git" />
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,dotnet" />
 </p>
 
-### Other Skills
-- REST APIs
-- Retrofit
-- MVC Architecture
-- ORM
-- OOP
-- Responsive Design
-- CI/CD Pipelines
-- Service-Based Architecture
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Additional Technologies
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Micro%20Frontend-61DAFB?style=for-the-badge" />
+</p>
+
+---
+
+## 🛠️ Tools I Use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-AI-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Other Skills
+
+<p>
+  <img src="https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ORM-795548?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-673AB7?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Responsive%20Design-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-E91E63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Service--Based%20Architecture-4CAF50?style=for-the-badge" />
+</p>
 
 ---
 
