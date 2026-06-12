@@ -24,37 +24,17 @@ Passionate Full Stack Developer with experience in designing, developing, and de
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React JS
-- Angular JS
-- Micro Frontend Architecture
+## 💻 Tech Stack
 
-### Backend
-- Python
-- PHP
-- Laravel
-- Node.js
-- .NET (C#)
-- Microservices Architecture
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,python,php,laravel,nodejs,dotnet,kotlin,flutter,mysql,postgresql,git,docker,postman,vscode,github&perline=6" />
+</p>
 
-### Mobile Development
-- Kotlin
-- Flutter (Dart)
+## 🚀 Tools I Use
 
-### Database
-- MySQL
-- PostgreSQL
-
-### Tools & Platforms
-- Git
-- Docker
-- Postman
-- VS Code
-- Cursor
-- GitHub Copilot
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,laravel,docker,mysql,postgresql,kotlin,flutter,git" />
+</p>
 
 ### Other Skills
 - REST APIs
