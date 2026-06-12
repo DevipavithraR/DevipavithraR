@@ -201,6 +201,20 @@ USP Arts and Science College for Women, Kodikurichi
 
 ---
 
+## 🏆 Coding Profiles
+
+### LeetCode
+
+<a href="https://leetcode.com/u/DeviPavithraR/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/DeviPavithraR?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+</a>
+
+- 🔥 Active Problem Solver
+- 💡 Data Structures & Algorithms Enthusiast
+- 🚀 Continuous Learning and Competitive Programming
+
+---
+
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub)
