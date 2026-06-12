@@ -216,12 +216,6 @@ USP Arts and Science College for Women, Kodikurichi
 
 ---
 
-## 💻 LeetCode Statistics
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/DeviPavithraR?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/DeviPavithraR/)
-
----
-
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub)
